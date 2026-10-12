@@ -170,8 +170,6 @@ En este programa no siempre se ejecutan las mismas instrucciones. Por ejemplo, l
 
 ### 1. ¿Todos los resultados obtenidos coinciden con los resultados esperados?
 
-### 1. ¿Todos los resultados obtenidos coinciden con los resultados esperados?
-
 Sí. Los cinco casos de prueba ejecutados produjeron los mismos resultados que se habían calculado previamente, por lo que todas las pruebas fueron exitosas.
 
 ### 2. ¿Qué caso de prueba fue más importante para comprobar la lógica del programa?
@@ -197,7 +195,6 @@ Se comprobaron:
 - Descuento del 15 %.
 - Descuento adicional para estudiante.
 - Selección de diferentes ediciones.
-- Edición no válida.
 
 ### 6. ¿Existe alguna situación que no haya sido contemplada en los casos de prueba?
 
