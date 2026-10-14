@@ -26,7 +26,7 @@ Actualmente incluye:
 - `semana4`: flujo condicional, acceso a eventos y tienda de videojuegos.
 - `semana5`: operadores lógicos, permiso para conducir, descuentos y beca estudiantil.
 - `semana6`: análisis de flujo condicional y prueba de escritorio.
-- `semana7`: análisis de un programa con flujo condicional, diagrama de flujo y comprobación de resultados.
+- `semana7`: uso de ciclos `while`, inventario de una tienda, acumuladores, contadores y casos de prueba.
 
 ### Trabajo en clase
 
@@ -58,6 +58,10 @@ La carpeta `ejercicios/trabajo_en_clase` contiene ejercicios desarrollados duran
 - `descuentos_flujo_condicional.py`
 - `mayor_tres_numero.py`
 
+### Semana 7
+
+- `inventario_tienda.py`
+
 ## Documentación
 
 Además de los programas en Python, el repositorio incluye archivos Markdown con:
@@ -71,7 +75,7 @@ Además de los programas en Python, el repositorio incluye archivos Markdown con
 
 ## Diagramas de flujo
 
-Durante las diferentes semanas se utilizaron diagramas de flujo para representar algoritmos y estructuras condicionales.
+Durante las diferentes semanas se utilizaron diagramas de flujo para representar algoritmos, estructuras condicionales y ciclos.
 
 Los diagramas se encuentran guardados en formato PNG dentro de las carpetas correspondientes a cada semana.
 
